@@ -1,0 +1,106 @@
+.pr1 
+{
+position: absolute;
+height: 10px;
+top: -10px;
+width: 30px;
+background-color: #7F7978;
+}
+body
+{
+	padding: 0px;
+	margin: 0px;
+}
+.pr2
+{
+	position: relative;
+	left: 100%;
+	height: 40px;
+	top: -10px;
+	width: 30px;
+	background-color: #7F7978;
+}
+li
+{
+	position: absolute;
+	top: 60px;
+	left: 30px;
+	display: none;
+	font-size: 250%;
+	color: #FFFFFF;
+}
+.pr2:hover li
+{
+display: block;
+}
+.pr3
+{
+	position: absolute;
+	height: 40px;
+	top: 50px;
+	width: 40px;
+	background-color: #7F7978;
+}
+body
+{
+	padding: 0px;
+	margin: 0px;
+}
+.pr4
+{
+	position: relative;
+	left: 100%;
+	height: 30px;
+	width: 10%;
+	background: #FFFFFF;
+}
+li
+{
+	position: absolute;
+	top: 60px;
+	left: 30px;
+	display: none;
+	font-size: 250%;
+	color: #FFFFFF;
+}
+
+.pr4:hover li
+{
+display: block;
+}
+
+.menud
+{
+position: absolute;
+height: 40px;
+top: 150px;
+width: 40px;
+background-color: #7F7978;
+}
+body
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+.boton
+{
+position: relative;
+left: 100%;	
+height: 30px;
+width: 10%;
+background: #FFFFFF;
+}
+li
+{
+	position: absolute;
+	top: 60px;
+	left: 30px;
+	display: none;
+	font-size: 250%;
+	color: #FFFFFF;
+}
+.boton:hover li
+{
+	display: block;
+}
